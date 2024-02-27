@@ -1,10 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/cVeImKGm)
 
-![image](https://github.com/HTW-WI-KI-WS24/project-mexitc/assets/78885738/5ece6703-0383-4a2a-89e8-9fbb861f06ed)
-![image](https://github.com/HTW-WI-KI-WS24/project-mexitc/assets/78885738/2fb17e8d-13ab-450b-8e82-dae6f0d69048)
-
-
-
 # Authors:
 - Ruy Guzmán Camacho 
 - Fernanda de León
@@ -12,6 +7,12 @@
 
 # Digital-Twin
 Welcome to your digital twin. This project is your digital persona, aimed to impress the recruiters and make it easier for them to know about your technical skills, projects and experience.
+
+# Technologies
+
+![image](https://github.com/HTW-WI-KI-WS24/project-mexitc/assets/78885738/5ece6703-0383-4a2a-89e8-9fbb861f06ed)
+![image](https://github.com/HTW-WI-KI-WS24/project-mexitc/assets/78885738/2fb17e8d-13ab-450b-8e82-dae6f0d69048)
+
 
 # Instructions
 ## Virtual Environment Setup
